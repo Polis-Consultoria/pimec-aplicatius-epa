@@ -174378,5 +174378,1945 @@
     "origen": "Extracomunitari",
     "ocupats": 8387.6,
     "registres": 10
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 261365,
+    "registres": 260
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 106006.9,
+    "registres": 76
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 27595.9,
+    "registres": 16
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 10137,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 743.3,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 94529.4,
+    "registres": 101
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 107889.6,
+    "registres": 74
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 8067.4,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 285748.2,
+    "registres": 380
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 52470.8,
+    "registres": 47
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 25079.4,
+    "registres": 18
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 2292,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 17743.7,
+    "registres": 13
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 241383.3,
+    "registres": 291
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 61120.6,
+    "registres": 52
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 8463.5,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 43751.2,
+    "registres": 43
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 3729.9,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 536,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 2258.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 54755.2,
+    "registres": 59
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 11483.8,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 1968.2,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 259104.4,
+    "registres": 233
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 76178.2,
+    "registres": 51
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 26428.1,
+    "registres": 16
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 10532.5,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 2138.6,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 1487.1,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 141357.2,
+    "registres": 142
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 129120.6,
+    "registres": 75
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 9392.2,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 279611.7,
+    "registres": 331
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 49614,
+    "registres": 37
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 10535,
+    "registres": 10
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 4668,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 15932.8,
+    "registres": 10
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 2863.1,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 13598.7,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 273119.6,
+    "registres": 314
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 75441.2,
+    "registres": 60
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 12214.3,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Espanyol",
+    "ocupats": 743.3,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 48533.5,
+    "registres": 44
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 1829.2,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 1482.8,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 4011.3,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 51631.7,
+    "registres": 49
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Barcelona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 17274.2,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 28492.2,
+    "registres": 56
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 4561.6,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 2040.7,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 870.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 302.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 868,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 17378,
+    "registres": 37
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 14314.9,
+    "registres": 19
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 3783.3,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 36859.2,
+    "registres": 99
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 3072.8,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 2017,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 2517.6,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 2700,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 30958.9,
+    "registres": 81
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 6334.3,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 1471.8,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 929.9,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 6393.6,
+    "registres": 12
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 2734.2,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 9299.2,
+    "registres": 18
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 5262,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 33277.2,
+    "registres": 61
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 4178.3,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 1809.4,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 1484,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 24854,
+    "registres": 40
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 21201.6,
+    "registres": 25
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 3335.3,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 30996.2,
+    "registres": 70
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 2393.1,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 1060.8,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 361.4,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 6858.2,
+    "registres": 8
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 323.4,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 4648.8,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 38877.7,
+    "registres": 97
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 15778.6,
+    "registres": 23
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 3888.2,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 633.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 5882.1,
+    "registres": 14
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 605.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 10509.4,
+    "registres": 25
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 4357,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Girona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 1077.3,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 19391.6,
+    "registres": 51
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 4566.1,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 2547.3,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 68.7,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 671.4,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "UE",
+    "ocupats": 1084.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 402,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 4769.5,
+    "registres": 15
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 10329.8,
+    "registres": 17
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 2346.3,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 19584.8,
+    "registres": 72
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 1299,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 283.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 1226,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Espanyol",
+    "ocupats": 449.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 861.5,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "UE",
+    "ocupats": 975.5,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 14826.1,
+    "registres": 49
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 2253.2,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 3288.1,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 1470,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 1377.9,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 2435.3,
+    "registres": 10
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 720.8,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 1084.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 14441.8,
+    "registres": 28
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 1812.3,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 1496.9,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 1293.3,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 4457.3,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 402,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 11968,
+    "registres": 26
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 9643.3,
+    "registres": 12
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 4531.2,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 16144,
+    "registres": 50
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 967.3,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 470.5,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 239.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 3141.3,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "UE",
+    "ocupats": 1084.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 1759.7,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 28884,
+    "registres": 86
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 9297.7,
+    "registres": 15
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 3402,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 1479.4,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 2595.1,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 979.9,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 5087.8,
+    "registres": 14
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 5336.6,
+    "registres": 8
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Lleida",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 1090.5,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 32699.6,
+    "registres": 64
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 6887.4,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 3888.4,
+    "registres": 5
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 977.1,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 1429.2,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 1299.1,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Primària incompleta",
+    "origen": "UE",
+    "ocupats": 808.4,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 10337.3,
+    "registres": 21
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 14320.9,
+    "registres": 17
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 843.2,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 25 a 44",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 1573.5,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 28920.7,
+    "registres": 71
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 3615.2,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 1140.3,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 957.4,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 2107.5,
+    "registres": 2
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "UE",
+    "ocupats": 792.4,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 558.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 31220.2,
+    "registres": 70
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 10809.7,
+    "registres": 13
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 6713.3,
+    "registres": 8
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "De 45 o més",
+    "formacio": "Sense estudis",
+    "origen": "Extracomunitari",
+    "ocupats": 998,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 3823.1,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 1151.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 8967,
+    "registres": 17
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 3004.1,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Dones",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 954.5,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 34929.1,
+    "registres": 60
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 11871.2,
+    "registres": 13
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 2544.9,
+    "registres": 4
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 1234.8,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 5438.2,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 23116.9,
+    "registres": 42
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 26703.8,
+    "registres": 26
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 843.2,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 25 a 44",
+    "formacio": "Sense estudis",
+    "origen": "Espanyol",
+    "ocupats": 671.3,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 27549.7,
+    "registres": 64
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 11833.2,
+    "registres": 14
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Educació superior",
+    "origen": "UE",
+    "ocupats": 4666.5,
+    "registres": 7
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Espanyol",
+    "ocupats": 1457.2,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 8519.5,
+    "registres": 8
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Primària incompleta",
+    "origen": "Extracomunitari",
+    "ocupats": 3122.6,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 40045.5,
+    "registres": 89
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 8838.1,
+    "registres": 10
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "De 45 o més",
+    "formacio": "Secundària",
+    "origen": "UE",
+    "ocupats": 7985.6,
+    "registres": 9
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Espanyol",
+    "ocupats": 3399.1,
+    "registres": 6
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Educació superior",
+    "origen": "Extracomunitari",
+    "ocupats": 2198.4,
+    "registres": 3
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Primària",
+    "origen": "Extracomunitari",
+    "ocupats": 1151.6,
+    "registres": 1
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Espanyol",
+    "ocupats": 6471.4,
+    "registres": 12
+  },
+  {
+    "trimestre": "2026-Trimestre 3",
+    "provincia": "Tarragona",
+    "sexe": "Homes",
+    "edat": "Menors de 25",
+    "formacio": "Secundària",
+    "origen": "Extracomunitari",
+    "ocupats": 4650,
+    "registres": 4
   }
 ]
